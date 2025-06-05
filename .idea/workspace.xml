@@ -5,16 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="920e48dc-f8c8-44f2-b6d1-5ba2fa986bfe" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/es/vedruna/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/es/vedruna/validator/ContrasenaValida.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/es/vedruna/validator/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/es/vedruna/validator/ContrasenaValidaTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/es/vedruna/validator/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/es/vedruna/validator/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +25,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Juny28"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/juny28/Dual.git",
+    "accountId": "fbcef121-f8cf-4cbd-b506-3ba1634166fc"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 0
 }]]></component>
@@ -44,10 +49,20 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "JUnit.ContrasenaValidaTest.executor": "Run",
+    "JUnit.ContrasenaValidaTest.testInvalidEmail.executor": "Run",
+    "JUnit.ContrasenaValidaTest.testInvalidPassword.executor": "Run",
+    "JUnit.ContrasenaValidaTest.testValidEmail.executor": "Run",
+    "Maven.Proyecto_Dual [compile].executor": "Run",
+    "Maven.Proyecto_Dual [install].executor": "Run",
+    "Maven.Proyecto_Dual [package].executor": "Run",
+    "Maven.Proyecto_Dual [site].executor": "Run",
+    "Maven.Proyecto_Dual [test].executor": "Run",
+    "Maven.Proyecto_Dual [validate].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/GladisJuniethSaenzOr/IdeaProjects/PROYECTO_DUAL/src/main/java/es/vedruna/validator/Main.java"
   }
